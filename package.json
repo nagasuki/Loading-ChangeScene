@@ -1,0 +1,12 @@
+{
+    "name": "com.nagasuki.loadingchangescene",
+    "version": "1.0.0",
+    "displayName": "Loading Change Scene",
+    "description": "Change scene by loading bar and customizable",
+    "unity": "2022.3",
+    "author": {
+        "name": "Nagasuki",
+        "email": "tiyanon.sa@gmail.com",
+        "url": ""
+    }
+}
